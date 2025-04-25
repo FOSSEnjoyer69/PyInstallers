@@ -1,0 +1,1 @@
+sudo apt install -y python3.10 python3.10-venv python3.10-dev
